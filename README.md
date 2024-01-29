@@ -41,3 +41,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # init jquery
 npm install jquery
+
+# init angular mat
+ng add @angular/material

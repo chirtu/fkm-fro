@@ -26,3 +26,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# **************************************************************************************
+
+# https://www.npmjs.com/package
+#  init boostrap
+ ng add @ng-bootstrap/ng-bootstrap
+
+# init font - awesome
+ npm install --save font-awesome angular-font-awesome
+ 
+ # init popper.js
+ npm install --save popper.js angular-popper
+
+# init jquery
+npm install jquery
